@@ -1,0 +1,14 @@
+
+
+input.required:focus {
+    background-color: aliceblue;
+}
+textarea.required:focus {
+    background-color: aliceblue;
+}
+/* textarea:empty {
+    background-color:rgb(253, 235, 235);
+}
+.required:empty {
+    background-color:rgb(253, 235, 235);
+} */
