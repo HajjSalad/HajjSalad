@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @HajjSalad
-- I’m interested in everything Engineering, Firmware and Embedded.
+- 👋 Hi, I’m Hajj.
+- Interested in everything Engineering, Firmware and Embedded.
 
 <!---
 HajjSalad/HajjSalad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
