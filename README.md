@@ -3,11 +3,12 @@
 ## 👋 About Me
 I'm Hajj, an Electrical Engineering grad with a Computer Science minor from UBC. I specialize in embedded systems, firmware, and IoT development, with a passion for building efficient, real-time solutions. Explore my projects to see how I combine hardware, software, and cloud technologies to create impactful systems.
 
-Checkout My:<br>
-🖇️ LinkedIn<br>
-🚀 Notion
+Checkout My:
+- [🚀 Notion]([https://www.notion.so/yourprofile](https://hajjsalad.notion.site/Hajj-Salad-15aa741b5aab80c68829ef9cf64f2b43))
+- [🖇️ LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/hajj-salad/))
 
-## 🔥 Projects
+
+## 🛠️ Projects
 ### Smart IoT Control and Monitoring System
 ✅ Simulated analog sensor data on STM32 HAL (PWM, ADC) and transmitted to ESP32 via UART with handshake.<br>
 ✅ Built a modular, object-oriented IoT system on ESP32 using FreeRTOS for real-time task scheduling, modeling and 
@@ -36,6 +37,8 @@ Skills:
 ✅ Implemented SPI communication between STM32 and ESP32 for real-time data transfer and cloud integration.<br>
 Skills: 
 
+##
+⚙️ Always eager to learn new things!
 
 
 <!---
