@@ -3,8 +3,8 @@
 ## 👋 About Me
 I'm Hajj, an Electrical Engineering grad with a Computer Science minor from UBC. I specialize in embedded systems, firmware, and IoT development, with a passion for building efficient, real-time solutions. Explore my projects to see how I combine hardware, software, and cloud technologies to create impactful systems.
 
-Checkout My:
-🖇️ LinkedIn
+Checkout My:<br>
+🖇️ LinkedIn<br>
 🚀 Notion
 
 ## 🔥 Projects
