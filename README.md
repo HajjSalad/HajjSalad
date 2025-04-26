@@ -19,19 +19,19 @@ Through my co-op and project experiences, I’ve contributed to projects ranging
 ✅ Utilized Terraform to integrate cloud connectivity with AWS via Wi-Fi for real-time monitoring and remote control.   
 Skills: STM32, ESP32, OOP, FreeRTOS, UART, Terraform, MQTT, AWS  
 
-### Predictive Maintenance Data Logger ([Github][(https://github.com/HajjSalad/Embedded-AI-For-Predictive-Maintenance))
+### Predictive Maintenance Data Logger ([Github](https://github.com/HajjSalad/Embedded-AI-For-Predictive-Maintenance))
 ✅ Developed a real-time data logging system on STM32 using Zephyr RTOS, collecting real-time sensor data.  
 ✅ Implemented the Factory Method design pattern for modular creation of machines and sensors, ensuring scalability.  
 ✅ Integrated TensorFlow Lite for Microcontrollers to perform on-device anomaly detection, enabling early equipment failure prediction hence minimizing unplanned downtime.  
 Skills: STM32, Zephyr, TensorFlow Lite, dfu-utils, Factory Method Pattern
 
-### Smart Fire Detection System ([Github][(https://github.com/HajjSalad/Smart-Fire-Detection-System)) 
+### Smart Fire Detection System ([Github](https://github.com/HajjSalad/Smart-Fire-Detection-System)) 
 ✅ Built a scalable fire detection system using FreeRTOS with STM32 as sensor node and ESP32 as central fire panel.  
 ✅ Implemented OOP design patterns to manage six modular sensors with clean abstraction and dynamic behavior.   
 ✅ Implemented SPI communication between STM32 and ESP32 for real-time data transfer and cloud integration.    
 Skills: STM32, ESP32, SPI, FreeRTOS, Abstract Factory Pattern
 
-### Traffic Light Control System ([Github][(https://github.com/HajjSalad/STM32-Traffic-Control))
+### Traffic Light Control System ([Github](https://github.com/HajjSalad/STM32-Traffic-Control))
 ✅ Developed a real-time Traffic Light Control System on STM32 using a finite state machine (FSM) for dynamic signal timing based on vehicle presence and count.  
 ✅ Implemented bare-metal firmware with direct register access to optimize system responsiveness without an RTOS.  
 ✅ Utilized GPIO interrupts to capture vehicle events, GPIO outputs to control RGB LEDs to simulate traffic signals.  
