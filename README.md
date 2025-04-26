@@ -8,7 +8,6 @@ Hi, I’m Hajj - an Embedded Systems and Firmware enthusiast with a background i
 ✔ **MCU Development**: Hands-on experience with STM32, ESP32, TM4C, ARM Cortex-M (register-level & HAL programming).     
 🔹 **Hardware-Software Integration**: Proven experience in sensor/peripheral interfacing (SPI, I2C, UART) and system bring-up.   
 ✔️ **Edge-to-Cloud Solutions**: Built AWS IoT-enabled devices using MQTT, Terraform for deployment.  
-  
 ✔️ **Scalable Architecture**: Applied design patterns (Factory, Abstract Factory, State Machines) in firmware  
 
 🔍 **Looking For:**
