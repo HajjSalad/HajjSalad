@@ -12,7 +12,7 @@ Through my co-op and project experiences, I’ve contributed to projects ranging
 📂 [Notion](https://hajjsalad.notion.site/Hajj-Salad-15aa741b5aab80c68829ef9cf64f2b43) - A detailed portfolio with overview of my technical projects  
   
 ## 🛠️ Projects
-### Smart IoT Control and Monitoring System
+### Smart IoT Control and Monitoring System ([Github](https://github.com/HajjSalad/ESP32-IoT-Control-and-Monitor-System))
 ✅ Simulated analog sensor data on STM32 HAL (PWM, ADC) and transmitted to ESP32 via UART with handshake.<br>
 ✅ Built a modular, object-oriented IoT system on ESP32 using FreeRTOS for real-time task scheduling, modeling and 
    managing a scalable network of sensors and devices across multiple rooms for efficient control and monitoring.<br>
