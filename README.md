@@ -10,7 +10,6 @@ Through my co-op and project experiences, I’ve contributed to projects ranging
 **Check out my:**     
 🖇️ LinkedIn Profile: [Hajj Salad](https://www.linkedin.com/in/hajj-salad/)   
 📂 [Notion](https://hajjsalad.notion.site/Hajj-Salad-15aa741b5aab80c68829ef9cf64f2b43) - A detailed portfolio with overview of my technical projects  
- 
 <!---
 HajjSalad/HajjSalad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
