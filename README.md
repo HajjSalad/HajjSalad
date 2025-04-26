@@ -10,7 +10,7 @@ Hi, I’m Hajj - an Embedded Systems and Firmware enthusiast with a background i
 
 #### 🛠️ Notable Projects & Skills:
 🚦 Traffic Light Control System: `STM32`, `C`, `Bare-metal`, `GPIOs`, `Interrupts`, `Finite State Machine`, `RGB LEDs`.  
-🚨 Smart Fire Detection System: `STM32`, `ESP32`, `C/C++`, `FreeRTOS`, `SPI`, `Abstract Factory Pattern`, `MQTT`, `AWS IoT`.   
+🚨 Smart Fire Detection System: `STM32`, `ESP32`, `C/C++`, `FreeRTOS`, `SPI`, `Abstract Factory Pattern`, `MQTT`, `Wi-Fi`, `AWS IoT`.   
 🌐 IoT Control and Monitor System: STM32, ESP32, C/C++, HAL, OOP, UART, MQTT, Wi-Fi, AWS IoT, AWS Timestream.    
 📔 Embedded AI For Predictive Maintenance: STM32, C/C++, Python, Zephyr, Factory Method Pattern, TensorFlow Lite, Edge Computing.  
 
