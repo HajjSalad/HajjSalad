@@ -1,14 +1,20 @@
 # Hajj Salad
 
 ## 👋 About Me
-Hi, I’m Hajj - an Embedded Systems and Firmware enthusiast with a background in Electrical Engineering and a minor in Computer Science from UBC. I’m passionate about building real-world systems that bridge hardware and software - especially ones that are reliable, efficient, and scalable.
+Hi, I’m Hajj - an Embedded Systems and Firmware enthusiast with a background in Electrical Engineering and a minor in Computer Science from UBC. I’m passionate about building reliable, efficient, and scalable real-world systems that bridge hardware and software.
 
-Through my co-op and project experiences, I’ve contributed to projects ranging from real-time embedded systems on STM32 and ESP32 to safety-critical firmware for smart home and industrial applications. Whether it's developing firmware from scratch, debugging tricky timing issues, or integrating sensors and peripherals in real-time, I enjoy the hands-on process of turning complex ideas into robust working systems. Along the way, I’ve worked with FreeRTOS, Zephyr, HAL drivers, and direct register access, often applying modular design patterns to keep systems clean and maintainable.
+#### 🚀 What I bring to the Table:
+✔️ **Low-Level Programming**: Expertise in embedded C/C++, Bare-metal coding and RTOS (FreeRTOS, Zephyr) for real-time systems.   
+✔ **MCU Development**: Hands-on experience with STM32, ESP32, TM4C, ARM Cortex-M (register-level & HAL programming).     
+🔹 **Hardware-Software Integration**: Proven experience in sensor/peripheral interfacing (SPI, I2C, UART) and system bring-up.   
+✔️ **Edge-to-Cloud Solutions**: Built AWS IoT-enabled devices using MQTT, Terraform for deployment.  
+  
+✔️ **Scalable Architecture**: Applied design patterns (Factory, Abstract Factory, State Machines) in firmware  
 
-🔍 I’m currently looking for opportunities where I can build meaningful tech, keep learning, and contribute to something impactful - whether that’s in embedded systems, connected devices, firmware testing, or anywhere along the hardware–software spectrum. 
+🔍 **Looking For:**
+I'm pursuing opportunities to work on mission-critical embedded systems, where continuous learning meets real-world impact - whether in firmware development, IoT solutions, systems engineering, or anywhere along the hardware-software interface.
 
 **Check out my:**     
-🖇️ LinkedIn Profile: [Hajj Salad](https://www.linkedin.com/in/hajj-salad/)   
 📂 [Notion](https://hajjsalad.notion.site/Hajj-Salad-15aa741b5aab80c68829ef9cf64f2b43) - A detailed portfolio with overview of my technical projects  
 <!---
 HajjSalad/HajjSalad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
