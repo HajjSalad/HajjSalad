@@ -1,6 +1,5 @@
 # Hajj Salad
 
----
 ## 👋 About Me
 Hi, I’m Hajj — an Embedded Systems and Firmware enthusiast with a background in Electrical Engineering and a minor in Computer Science from UBC. I’m passionate about building real-world systems that bridge hardware and software - especially ones that are reliable, efficient, and scalable.
 
@@ -10,11 +9,10 @@ I've also explored digital design, analog circuits and full-stack web tools for 
 
 🔍 I’m currently looking for opportunities where I can build meaningful tech, keep learning, and contribute to something impactful - whether that’s in embedded systems, connected devices, firmware testing, or anywhere along the hardware–software spectrum. 
 
-#### Connect With Me  
+**Connect With Me**    
 📂 [Notion](https://hajjsalad.notion.site/Hajj-Salad-15aa741b5aab80c68829ef9cf64f2b43)    
 🖇️ [LinkedIn](https://www.linkedin.com/in/hajj-salad/)      
 
----
 ## 🛠️ Projects
 ### Smart IoT Control and Monitoring System
 ✅ Simulated analog sensor data on STM32 HAL (PWM, ADC) and transmitted to ESP32 via UART with handshake.<br>
