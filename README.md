@@ -4,7 +4,8 @@ Hi, I’m Hajj - an Embedded Systems and Firmware enthusiast with a background i
 #### 🚀 What I bring to the Table:
 ✔️ **Low-Level Programming**: Expertise in embedded C/C++, Bare-metal and RTOS (FreeRTOS, Zephyr) for real-time systems.   
 ✔️ **MCU Development**: Hands-on experience with STM32, ESP32, TM4C, ARM Cortex-M (register-level & HAL programming).     
-✔️ **Hardware-Software Integration**: Proven experience in sensor/peripheral interfacing (SPI, I2C, UART) and system bring-up.   
+✔️ **Hardware-Software Integration**: Proven experience in sensor/peripheral interfacing (SPI, I2C, UART) and system bring-up.  
+✔️ **Modular and Scalable Architecture**: Knowledge of data structure and design patterns (Factory, Abstract Factory, State Machines).  
 
 #### 🛠️ Notable Projects & Skills:
 🚨 **Smart Fire Detection System**: STM32, ESP32, SPI, FreeRTOS, Abstract Factory Pattern (Scalable Architecture).  
