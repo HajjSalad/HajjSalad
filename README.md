@@ -5,8 +5,6 @@ Hi, I’m Hajj - an Embedded Systems and Firmware enthusiast with a background i
 
 Through my co-op and project experiences, I’ve contributed to projects ranging from real-time embedded systems on STM32 and ESP32 to safety-critical firmware for smart home and industrial applications. Whether it's developing firmware from scratch, debugging tricky timing issues, or integrating sensors and peripherals in real-time, I enjoy the hands-on process of turning complex ideas into robust working systems. Along the way, I’ve worked with FreeRTOS, Zephyr, HAL drivers, and direct register access, often applying modular design patterns to keep systems clean and maintainable.
 
-I've also explored digital design, analog circuits and full-stack web tools for visualizing embedded data. Whether I’m prototyping an IoT sensor node, designing a traffic light FSM, or simulating CPU scheduling, I’m driven by curiosity, clarity, system thinking, and clean code.
-
 🔍 I’m currently looking for opportunities where I can build meaningful tech, keep learning, and contribute to something impactful - whether that’s in embedded systems, connected devices, firmware testing, or anywhere along the hardware–software spectrum. 
 
 **Check out my:**     
