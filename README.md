@@ -11,7 +11,7 @@ I've also explored digital design, analog circuits and full-stack web tools for 
 
 **Check out my:**     
 🖇️ LinkedIn Profile: [Hajj Salad](https://www.linkedin.com/in/hajj-salad/)   
-📂 WebPage: [Hajj Notion](https://hajjsalad.notion.site/Hajj-Salad-15aa741b5aab80c68829ef9cf64f2b43)   
+📂 [Notion](https://hajjsalad.notion.site/Hajj-Salad-15aa741b5aab80c68829ef9cf64f2b43) - A detailed portfolio with overview of my technical projects  
   
 ## 🛠️ Projects
 ### Smart IoT Control and Monitoring System
