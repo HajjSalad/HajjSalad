@@ -8,7 +8,7 @@ Hi, I’m Hajj - an Embedded Systems and Firmware enthusiast with a background i
 ✔️ **Modular Firmware**: Implemented scalable systems using design patterns (Factory, Abstract Factory, State Machines).  
 
 #### 🛠️ Notable Projects & Skills:
-🚨 Smart Fire Detection System: STM32, ESP32, SPI, FreeRTOS, Abstract Factory Pattern (Scalable Architecture).  
+🚨 Smart Fire Detection System: **C/C++**, **STM32**, **ESP32**, **Interrupts**, **SPI**, **FreeRTOS**, **Abstract Factory Pattern**, **MQTT** **AWS IoT**.  
 🌐 **IoT Control and Monitoring System**: STM32, ESP32, HAL, OOP, UART, MQTT, Wi-Fi, AWS (Cloud-Solutions).  
 📔 **Predictive Maintenance Data Logger**: Zephyr, Factory Method Pattern, TensorFlow Lite, Edge Computing.  
 🚦 **Traffic Light Control System**: STM32, Bare-metal, GPIOs, Interrupts, Finite State Machine.  
