@@ -9,10 +9,10 @@ I've also explored digital design, analog circuits and full-stack web tools for 
 
 🔍 I’m currently looking for opportunities where I can build meaningful tech, keep learning, and contribute to something impactful - whether that’s in embedded systems, connected devices, firmware testing, or anywhere along the hardware–software spectrum. 
 
-**Connect With Me**    
-📂 [Notion](https://hajjsalad.notion.site/Hajj-Salad-15aa741b5aab80c68829ef9cf64f2b43)    
-🖇️ [LinkedIn](https://www.linkedin.com/in/hajj-salad/)      
-
+**Check out my:**     
+🖇️ LinkedIn Profile: [Hajj Salad](https://www.linkedin.com/in/hajj-salad/)   
+📂 WebPage: [Hajj Notion](https://hajjsalad.notion.site/Hajj-Salad-15aa741b5aab80c68829ef9cf64f2b43)   
+  
 ## 🛠️ Projects
 ### Smart IoT Control and Monitoring System
 ✅ Simulated analog sensor data on STM32 HAL (PWM, ADC) and transmitted to ESP32 via UART with handshake.<br>
