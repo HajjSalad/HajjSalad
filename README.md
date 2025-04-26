@@ -10,7 +10,7 @@ Hi, I’m Hajj - an Embedded Systems and Firmware enthusiast with a background i
 ✔️ **Edge-to-Cloud Solutions**: Built AWS IoT-enabled devices using MQTT, Terraform for deployment.  
 ✔️ **Scalable Architecture**: Applied design patterns (Factory, Abstract Factory, State Machines) in firmware  
 
-🔍 **Looking For:**
+🔍 **Looking For:**  
 I'm pursuing opportunities to work on mission-critical embedded systems, where continuous learning meets real-world impact - whether in firmware development, IoT solutions, systems engineering, or anywhere along the hardware-software interface.
 
 **Check out my:**     
