@@ -1,5 +1,3 @@
-# Hajj Salad
-
 ## 👋 About Me
 Hi, I’m Hajj - an Embedded Systems and Firmware enthusiast with a background in Electrical Engineering and a minor in Computer Science from UBC. I’m passionate about building reliable, efficient, and scalable systems that bridge hardware and software.
 
