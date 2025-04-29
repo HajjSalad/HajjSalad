@@ -10,16 +10,14 @@ Hi, I’m Hajj - an **Electrical Engineering** graduate with a Computer Science 
 ✔️ **Modular Firmware**: Implemented scalable systems using design patterns (Factory, Abstract Factory, State Machines).  
 ✔️ **Edge-to-Cloud Solutions**: Developed AWS IoT-connected embedded devices, and Terraform-managed cloud infrastructure.  
 
-✔️ Electrical Systems Expertise: Deep understanding of electronic principles including power conversion, signal integrity, and processor architecture, applied to practical designs and simulations.
-
 #### 🛠️ Embedded Projects & Skills:
 🚦 Traffic Light Control System: `STM32`, `C`, `Bare-metal`, `GPIOs`, `Interrupts`, `Finite State Machine`, `RGB LEDs`.  
 🚨 Smart Fire Detection System: `STM32`, `ESP32`, `C/C++`, `FreeRTOS`, `SPI`, `Abstract Factory Pattern`, `MQTT`, `Wi-Fi`, `AWS IoT`.   
 🌐 IoT Control and Monitor System: `STM32`, `ESP32`, `C/C++`, `HAL`, `PWM`, `ADC`, `Timers`, `OOP`, `UART`, `MQTT`, `Wi-Fi`, `AWS IoT`.    
 📔 Embedded AI For Predictive Maintenance: `STM32`, `C/C++`, `Python`, `Zephyr`, `TensorFlow Lite`, `Factory Method Pattern`.  
 
-🔍 **Looking For:**  
-I'm pursuing opportunities to work on mission-critical embedded systems, where continuous learning meets real-world impact - whether in firmware development, IoT solutions, systems engineering, or anywhere along the hardware-software interface. 
+🔍 **Seeking**: Opportunities to architect cutting-edge electronics solutions while growing with mission-driven teams.
+🇳 **Portlio**: Explore my projects and experience in detail on my [Notion Page](https://hajjsalad.notion.site/Hajj-Salad-15aa741b5aab80c68829ef9cf64f2b43).
 <!---
 HajjSalad/HajjSalad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
