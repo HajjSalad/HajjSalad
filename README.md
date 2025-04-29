@@ -2,8 +2,8 @@
 Hi, I’m Hajj - an **Electrical Engineering** graduate (Computer Science minor) from UBC. I’m passionate about building reliable, efficient, and scalable systems that bridge hardware and software.
 
 #### 🚀 What I bring to the Table:
-✔️ **Electrical Engineering Core**: Deep understanding of circuit theory, microelectronics, and signal processing applied to practical designs.  
-✔️ **Digital Systems Design**: Experience with digital logic, processor architecture, and HDL for FPGA and ASIC development flows. 
+✔️ **Electrical Engineering Core**: Deep understanding of circuit theory, microelectronics, and signal processing applied to practical designs.   
+✔️ **Digital Systems Design**: Experience with digital logic, processor architecture, and HDL for FPGA and ASIC development flows.     
 ✔️ **Low-Level Programming**: Expertise in embedded C/C++, Bare-metal and RTOS (FreeRTOS, Zephyr) for real-time systems.   
 ✔️ **MCU Development**: Hands-on experience with STM32, ESP32, TM4C, ARM Cortex-M (register-level & HAL programming).     
 ✔️ **Hardware-Software Integration**: Proven experience in sensor/peripheral interfacing (SPI, I2C, UART) and system bring-up.  
