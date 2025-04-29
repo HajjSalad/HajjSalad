@@ -1,14 +1,18 @@
 ## 👋 About Me
-Hi, I’m Hajj - an Embedded Systems and Firmware enthusiast with a background in Electrical Engineering and a minor in Computer Science from UBC. I’m passionate about building reliable, efficient, and scalable systems that bridge hardware and software.
+Hi, I’m Hajj - an **Electrical Engineering** graduate (Computer Science minor) from UBC. I’m passionate about building reliable, efficient, and scalable systems that bridge hardware and software.
 
 #### 🚀 What I bring to the Table:
+✔️ **Electrical Engineering Core**: Deep understanding of circuit theory, microelectronics, and signal processing applied to practical designs.  
+✔️ **Digital Systems Design**: Experience with digital logic, processor architecture, and HDL for FPGA and ASIC development flows. 
 ✔️ **Low-Level Programming**: Expertise in embedded C/C++, Bare-metal and RTOS (FreeRTOS, Zephyr) for real-time systems.   
 ✔️ **MCU Development**: Hands-on experience with STM32, ESP32, TM4C, ARM Cortex-M (register-level & HAL programming).     
 ✔️ **Hardware-Software Integration**: Proven experience in sensor/peripheral interfacing (SPI, I2C, UART) and system bring-up.  
 ✔️ **Modular Firmware**: Implemented scalable systems using design patterns (Factory, Abstract Factory, State Machines).  
 ✔️ **Edge-to-Cloud Solutions**: Developed AWS IoT-connected embedded devices, and Terraform-managed cloud infrastructure.  
 
-#### 🛠️ Notable Projects & Skills:
+✔️ Electrical Systems Expertise: Deep understanding of electronic principles including power conversion, signal integrity, and processor architecture, applied to practical designs and simulations.
+
+#### 🛠️ Embedded Projects & Skills:
 🚦 Traffic Light Control System: `STM32`, `C`, `Bare-metal`, `GPIOs`, `Interrupts`, `Finite State Machine`, `RGB LEDs`.  
 🚨 Smart Fire Detection System: `STM32`, `ESP32`, `C/C++`, `FreeRTOS`, `SPI`, `Abstract Factory Pattern`, `MQTT`, `Wi-Fi`, `AWS IoT`.   
 🌐 IoT Control and Monitor System: `STM32`, `ESP32`, `C/C++`, `HAL`, `PWM`, `ADC`, `Timers`, `OOP`, `UART`, `MQTT`, `Wi-Fi`, `AWS IoT`.    
