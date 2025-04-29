@@ -17,7 +17,7 @@ Hi, I’m Hajj - an **Electrical Engineering** graduate with a Computer Science 
 📔 Embedded AI For Predictive Maintenance: `STM32`, `C/C++`, `Python`, `Zephyr`, `TensorFlow Lite`, `Factory Method Pattern`.  
 
 🔍 **Seeking**: Opportunities to architect cutting-edge electronics solutions while growing with mission-driven teams.   
-🇳 **Portlio**: Explore my projects and experience in detail on my [Notion Page](https://hajjsalad.notion.site/Hajj-Salad-15aa741b5aab80c68829ef9cf64f2b43).
+📝 **Portlio**: Explore my projects and experience in detail on my [Notion Page](https://hajjsalad.notion.site/Hajj-Salad-15aa741b5aab80c68829ef9cf64f2b43).
 <!---
 HajjSalad/HajjSalad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
