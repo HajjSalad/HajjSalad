@@ -1,5 +1,5 @@
 ## 👋 About Me
-Hi, I’m Hajj - an **Electrical Engineering** graduate with a Computer Science minor from UBC. I’m passionate about building reliable, efficient, and scalable systems that bridge hardware and software.
+Hi, I’m Hajj - an **Electrical Engineering** graduate with a **Computer Science minor** from UBC. I’m passionate about building reliable, efficient, and scalable systems that bridge hardware and software.
 
 #### 🚀 What I bring to the Table:
 ✔️ **Electrical Engineering**: Deep understanding of circuit theory, microelectronics, and signal processing for practical designs.  
