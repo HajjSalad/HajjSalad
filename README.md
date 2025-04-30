@@ -7,7 +7,7 @@ Hi, I’m Hajj - an **Electrical Engineering** graduate with a **Computer Scienc
 ✔️ **Low-Level Programming**: Expertise in embedded C/C++, Bare-metal and RTOS (FreeRTOS, Zephyr) for real-time systems.   
 ✔️ **MCU Development**: Hands-on experience with STM32, ESP32, TM4C, ARM Cortex-M (register-level & HAL programming).     
 ✔️ **Hardware-Software Integration**: Proven experience in sensor/peripheral interfacing (SPI, I2C, UART) and system bring-up.  
-✔️ **Modular Firmware**: Implementation scalable systems using design patterns (Factory, Abstract Factory, State Machines).  
+✔️ **Modular Firmware**: Implementation of scalable systems using design patterns (Factory, Abstract Factory, State Machines).  
 ✔️ **Edge-to-Cloud Solutions**: Develop AWS IoT-connected embedded devices, and Terraform-managed cloud infrastructure.  
 
 #### 🛠️ Embedded Projects & Skills:
