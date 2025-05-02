@@ -1,5 +1,6 @@
 ## 👋 About Me
 Hi, I’m Hajj - an **Electrical Engineering** graduate with a **Computer Science** minor from UBC. I’m passionate about building reliable, efficient, and scalable systems that bridge hardware and software.    
+
 🚀 What I bring to the Table:
 --
 ✔️ **Electrical Engineering**: Deep understanding of circuit theory, microelectronics, and signal processing for practical designs.  
@@ -11,7 +12,8 @@ Hi, I’m Hajj - an **Electrical Engineering** graduate with a **Computer Scienc
 ✔️ **Edge-to-Cloud Solutions**: Develop AWS IoT-connected embedded devices, and Terraform-managed cloud infrastructure.   
 ✔️ **Test & Validation**: Proficient with oscilloscopes, multimeters, power supplies, and function generators for signal debugging.  
 ✔️ **Hardware Prototyping**: Skilled in soldering, PCB rework, and hardware assembly for prototyping, testing, and circuit integration.   
-#### 🛠️ Embedded Projects & Skills:
+
+🛠️ **Embedded Projects & Skills**:
 ---
 🚦 Traffic Light Control System: `STM32`, `C`, `Bare-metal`, `GPIOs`, `Interrupts`, `Finite State Machine`, `RGB LEDs`.  
 🚨 Smart Fire Detection System: `STM32`, `ESP32`, `C/C++`, `FreeRTOS`, `SPI`, `Abstract Factory Pattern`, `MQTT`, `Wi-Fi`, `AWS IoT`.   
