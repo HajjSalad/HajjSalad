@@ -14,6 +14,7 @@ Hi, I’m Hajj - an **Electrical Engineering** graduate with a **Computer Scienc
 ✔️ **Hardware Prototyping**: Skilled in soldering, PCB rework, and hardware assembly for prototyping, testing, and circuit integration.   
 
 🛠️ **Embedded Projects & Skills**:
+
 ---
 🚦 Traffic Light Control System: `STM32`, `C`, `Bare-metal`, `GPIOs`, `Interrupts`, `Finite State Machine`, `RGB LEDs`.  
 🚨 Smart Fire Detection System: `STM32`, `ESP32`, `C/C++`, `FreeRTOS`, `SPI`, `Abstract Factory Pattern`, `MQTT`, `Wi-Fi`, `AWS IoT`.   
