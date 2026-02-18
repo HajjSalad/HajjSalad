@@ -2,27 +2,27 @@
 Hi, I'm Hajj - a Computer Engineering professional with an Electrical Engineering degree and Computer Science minor from UBC. I specialize in building reliable, high-performance embedded systems that bridge hardware and software, from bare-metal firmware to Linux kernel drivers.
 
 **🚀 What I Bring to the Table**   
-##### Embedded Systems & Firmware Development:
+#### Embedded Systems & Firmware Development:
 - Expert in embedded C/C++ across bare-metal and RTOS environments (FreeRTOS, Zephyr)
 - MCU development on ARM Cortex-M platforms (STM32, ESP32, TM4C) with register-level and HAL programming
 - Real-time multithreaded architectures with deterministic synchronization (mutex, semaphore, producer-consumer patterns)
 - Event-driven firmware design for low-latency, resource-constrained systems  
-**Systems Programming & Linux:**
+#### **Systems Programming & Linux:**
 - Linux kernel driver development (custom device drivers, IOCTL interfaces, V4L2)
 - User-space/kernel-space communication and hardware abstraction layers
 - POSIX sockets, TCP/IP networking, and HTTP server implementation
 - System-level debugging and performance optimization  
-**Hardware Design & Integration:**
+#### **Hardware Design & Integration:**
 - PCB design in KiCAD: schematic capture, mixed-signal routing, power integrity
 - Peripheral interfacing (SPI, I2C, UART, ADC, PWM, GPIO, Timers)
 - Hardware bring-up, system integration, and fault-tolerant communication protocols
 - Test equipment proficiency: oscilloscopes, logic analyzers, multimeters, function generators
-**Software Architecture & Scalability:**
+#### **Software Architecture & Scalability:**
 - Object-oriented design patterns (Factory Method, Abstract Factory, State Machine)
 - Modular firmware architectures for scalable fleet deployment
 - Distributed systems design: edge-to-cloud telemetry pipelines
 - Version control (Git), documentation (Doxygen), and build automation (Make, CMake)
-**Edge Computing & Cloud Integration:**
+#### **Edge Computing & Cloud Integration:**
 - AWS IoT integration with Terraform-managed infrastructure
 - On-device machine learning (TensorFlow Lite) for anomaly detection
 - MQTT protocol implementation for IoT connectivity
