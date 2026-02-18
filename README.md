@@ -49,10 +49,10 @@ C · STM32 · Bare-Metal · GPIO · Interrupts · FSM · Make · OpenOCD · Regi
 Implemented real-time traffic controller with finite state machine for deterministic signal timing, utilizing bare-metal firmware with direct register access for minimal latency and precise event handling.  
 
 #### **🔍 What I'm Looking For** 
-Opportunities to work on challenging embedded systems, real-time software, or systems programming projects with mission-driven teams. 
-💼 LinkedIn: [Your Profile]
-🔗 GitHub: github.com/hajjsalad
-📝 Portfolio: [Portfolio](https://hajjsalad.notion.site/portfolio-hajj-salad).
+Opportunities to work on challenging embedded systems, real-time software, or systems programming projects with mission-driven teams.   
+💼 LinkedIn: https://www.linkedin.com/in/hajj-salad/  
+🔗 GitHub: github.com/hajjsalad    
+📝 Portfolio: https://hajjsalad.notion.site/portfolio-hajj-salad  
 <!---
 HajjSalad/HajjSalad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
