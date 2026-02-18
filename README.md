@@ -2,7 +2,7 @@
 Hi, I'm Hajj - a Computer Engineering professional with an Electrical Engineering degree and Computer Science minor from UBC. I specialize in building reliable, high-performance embedded systems that bridge hardware and software, from bare-metal firmware to Linux kernel drivers.
 
 **🚀 What I Bring to the Table**   
-### Embedded Systems & Firmware Development:
+##### Embedded Systems & Firmware Development:
 - Expert in embedded C/C++ across bare-metal and RTOS environments (FreeRTOS, Zephyr)
 - MCU development on ARM Cortex-M platforms (STM32, ESP32, TM4C) with register-level and HAL programming
 - Real-time multithreaded architectures with deterministic synchronization (mutex, semaphore, producer-consumer patterns)
