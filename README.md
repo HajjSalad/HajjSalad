@@ -1,5 +1,4 @@
 ## 👋 About Me
-Hi, I'm Hajj.
  
 🔗 GitHub: https://github.com/hajjsalad    
 📝 Portfolio: https://www.hajj.dev/portfolio  
